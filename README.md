@@ -1,1 +1,3 @@
-# kotlin-tic-tac-toe-321524
+# Project Repository
+
+This is the initial README file for the project.

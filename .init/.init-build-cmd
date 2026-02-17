@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew assembleDebug",
+    "working_directory": "/home/kavia/workspace/code-generation/kotlin-tic-tac-toe-321524/kotlin_frontend"
+}

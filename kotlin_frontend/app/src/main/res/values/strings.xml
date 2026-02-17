@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+
+    <string name="title_tic_tac_toe">Tic Tac Toe</string>
+    <string name="restart">Restart game</string>
+    <string name="hint_text">Tap an empty square to place your mark. First to 3 in a row wins.</string>
+
+    <string name="cell_desc_0">Cell 1</string>
+    <string name="cell_desc_1">Cell 2</string>
+    <string name="cell_desc_2">Cell 3</string>
+    <string name="cell_desc_3">Cell 4</string>
+    <string name="cell_desc_4">Cell 5</string>
+    <string name="cell_desc_5">Cell 6</string>
+    <string name="cell_desc_6">Cell 7</string>
+    <string name="cell_desc_7">Cell 8</string>
+    <string name="cell_desc_8">Cell 9</string>
+</resources>
